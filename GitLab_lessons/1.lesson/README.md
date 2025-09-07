@@ -1,3 +1,5 @@
+# Для установки GitLab Runner
+
 sudo apt update
 
 sudo apt install curl
